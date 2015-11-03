@@ -1,6 +1,8 @@
 # code2anki
 Utility for creating anki deck from source code
+
 It's not even alpha, use it for your own risk.
+
 Distinct Anki account - recomended.
 
 # Usage
@@ -11,7 +13,7 @@ Distinct Anki account - recomended.
 
 # Beware
 
-  pygments 
+  pygments lexer can hang on some files
 
 # TODO
 
